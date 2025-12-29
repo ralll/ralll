@@ -4,7 +4,7 @@
 
 🇧🇷 **Brazil**
 
-> Data is essential to provide accurate analysis and operational impact.
+> Data is essential for providing accurate analysis and operational impact.
 
 ## 🗣️ Languages
 
