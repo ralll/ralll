@@ -25,7 +25,7 @@ Data is essential to provide accurate analysis and operational impact.
 - Linux
 
 
-## 👨‍💻 I’m currently learning
+## 👨‍💻 I’m currently reading
 
 - SQL standard
 - Algorithms
