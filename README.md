@@ -6,7 +6,7 @@
 
 > Data is essential to provide accurate analysis and operational impact.
 
-## Languages
+## 🗣️ Languages
 
 - Portuguese (Native)
 - English (Fluent)
