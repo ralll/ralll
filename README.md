@@ -6,14 +6,22 @@
 
 Data is essential to provide accurate analysis and operational impact.
 
+
+
+## Languages
+
+- Portuguese (Native)
+- English (Fluent)
+- Mandarim (Begginer)
+- German (Begginer)
+
 ## 🐺 Skills 
 
-### Idioms
+### Management
 
-- Portuguese: Native.
-- English: Fluent.
-- Mandarim: Begginer.
-- German: Begginer.
+- Planning and Scenario analysis.
+- Team woking and cross-function collaboration.
+- Strategic problem solving.
 
 ### Backend
 
@@ -23,7 +31,6 @@ Data is essential to provide accurate analysis and operational impact.
 
 - Docker
 - Linux
-
 
 ## 👨‍💻 I’m currently reading
 
