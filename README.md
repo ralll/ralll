@@ -6,8 +6,6 @@
 
 Data is essential to provide accurate analysis and operational impact.
 
-## 🤝 I’m looking to collaborate on projects
-
 ## 🐺 Skills 
 
 ### Idioms
