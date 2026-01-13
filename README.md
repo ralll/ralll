@@ -41,7 +41,7 @@
 
  ## 
 
- [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=ralll)](https://github.com/pranesh-2005/github-readme-stats-fast)
+ [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=ralll&show_icons=true&theme=catppuccin_latte)](https://github.com/pranesh-2005/github-readme-stats-fast)
  
 <!--
 **ralll/ralll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
