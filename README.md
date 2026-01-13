@@ -1,6 +1,9 @@
 ## Hi, I'm Raillander Bonifácio
 
-👨‍💻 **Data engineer**
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+
+
+👨‍💻 **Data engineer**  
 
 🇧🇷 **Brazil**
 
@@ -35,6 +38,10 @@
 - SQL standard
 - Algorithms
 - Data structures
+
+ ## 
+
+ [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=ralll)](https://github.com/pranesh-2005/github-readme-stats-fast)
  
 <!--
 **ralll/ralll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
